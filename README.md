@@ -110,7 +110,6 @@ Markdown templates that default unchecked areas to `Unverified`, so a report nev
 
 ## Conventions
 
-- British spelling throughout.
 - Prefer semantic HTML and vanilla CSS/JavaScript over custom widgets.
 - Never hide layout defects by globally disabling zoom, focus outlines, scrolling, text selection, or browser UI.
 - Re-check current primary browser documentation when behaviour is version-dependent or experimental.
