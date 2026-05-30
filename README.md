@@ -1,5 +1,8 @@
 # web-layout-audit
 
+This is entirely vibecoded and agentically generated out of fustration of errors to do with PWAs.
+
+
 A coding-agent skill for auditing, fixing, and **verifying** UI behaviour in websites, web apps, mobile UI, app shells, and PWAs — using fact-based, device-grounded reasoning instead of "looks fine on my desktop".
 
 It targets the class of defects that desktop previews hide and real devices expose: iOS chin gaps, bottom-nav / home-indicator collisions, keyboard overlap, input zoom, `100vh` bugs, stale service-worker shells, broken install flows, missing safe-area handling, and the gap between *intended* UI and *implemented* UI in LLM-generated code.
